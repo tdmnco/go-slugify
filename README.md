@@ -1,4 +1,4 @@
-# Slugify functions for simplified usage in Go
+# Slugify
 
 - [About](#about)
 - [Getting Help](#getting-help)
