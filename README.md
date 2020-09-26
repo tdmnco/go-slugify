@@ -5,7 +5,7 @@
 
 ## About
 
-This repository contains simplified functions for slugifying strings in Go. Note that emojis are not supported, the functionality kept in this module is meant to be overly simplified.
+This repository contains simplified functions for slugifying strings in Go. Note that emojis are not supported, the functionality kept in this module is deliberately meant to be overly simplified.
 
 ## Getting Help
 
